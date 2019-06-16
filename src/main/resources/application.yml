@@ -1,0 +1,14 @@
+datasource:
+  db:
+    username: brbrqqrc
+#    host:
+    password: R5Bw8foulQJqXAmk__GEzjpR1K87QxI0
+    url: jdbc:postgresql://balarama.db.elephantsql.com:5432/brbrqqrc
+    driver: org.postgresql.Driver
+
+#ebean:
+#  ddl:
+#    generate: true
+#    run: true
+#  migration:
+#    run: true

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane id="managers" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#463232" layoutX="194.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Managers make life easier!">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <FlowPane fx:id="managersFlowPane" hgap="20.0" layoutX="38.0" layoutY="126.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="523.0" prefWrapLength="500.0" vgap="10.0" />
+      <Text layoutX="74.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hire one to run your business for you , or to maximaze , all just for one easy payment!" />
+   </children>
+</Pane>
